@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! title: Jahan 广告过滤规则
+! title: Jahan ios Adguard广告过滤规则
 ! Version: 2020年4月8日 10:13:58
  
   
