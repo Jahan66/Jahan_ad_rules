@@ -1,0 +1,17 @@
+v.youku.com###app > div > div.play-top-container > div.l-container:last-child > div.module-playbox:first-child > div.playbox > div.listbox:last-child > div.anthology-wrap > div.scroll-area:last-child > div.anthology-content-scroll:last-child > div > div.qr-wrap:last-child
+baidu.com###qrcode > div.qrcode-item.qrcode-item-1
+! 2020/4/8 onemanhua.com
+onemanhua.com#@#.adBanner
+onemanhua.com###rn_ad_native_p4s8i > div.mn-related-container > div.mn-container:first-child > div.mn-outer.mn-thumbnails_col-4.mn-thumbnails_img-left:last-child > div.mn-thumb:first-child
+onemanhua.com###rn_ad_native_p4s8i > div.mn-related-container > div.mn-container:first-child > div.mn-outer.mn-thumbnails_col-4.mn-thumbnails_img-left:last-child > div.mn-thumb:nth-child(2)
+onemanhua.com###rn_ad_native_p4s8i > div.mn-related-container > div.mn-container:first-child > div.mn-outer.mn-thumbnails_col-4.mn-thumbnails_img-left:last-child > div.mn-thumb:nth-child(3)
+onemanhua.com###rn_ad_native_p4s8i > div.mn-related-container > div.mn-container:first-child > div.mn-outer.mn-thumbnails_col-4.mn-thumbnails_img-left:last-child > div.mn-thumb:last-child
+onemanhua.com##div.fed-main-info.fed-min-width > div.fed-part-case > div.fed-part-layout.fed-part-rows.fed-back-whits:first-child > div.fed-hide-xs.fed-col-sm4.fed-col-md3:last-child > div.fed-side-code.fed-text-center.fed-padding
+@@||*.com^$domain=onemanhua.com
+onemanhua.com###rn_ad_native_p4s8i > div.mn-related-container > div.mn-container:first-child > div.mn-container-adsby.mn-container-adsby_position_right:first-child > a.mn-container-adsby__link > span
+onemanhua.com##div:nth-child(7)
+onemanhua.com###rn_ad_native_mx66s
+onemanhua.com###rn_ad_native_yrp5h_2 > div.mn-related-container > div.mn-container:first-child > div.mn-outer.mn-thumbnails_col-4.mn-thumbnails_img-left:last-child
+onemanhua.com###rn_ad_native_yrp5h_2 > div.mn-related-container > div.mn-container:first-child > div.mn-container-adsby.mn-container-adsby_position_right:first-child
+onemanhua.com###rn_ad_native_yrp5h_3
+onemanhua.com###rn_ad_native_yrp5h_4
