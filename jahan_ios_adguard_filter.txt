@@ -1,0 +1,9 @@
+v.youku.com###app > div > div.play-top-container > div.l-container:last-child > div.module-playbox:first-child > div.playbox > div.listbox:last-child > div.anthology-wrap > div.scroll-area:last-child > div.anthology-content-scroll:last-child > div > div.qr-wrap:last-child
+baidu.com###qrcode > div.qrcode-item.qrcode-item-1
+@@||runative-syndicate.com^$domain=onemanhua.com
+onemanhua.com#@#.adBanner
+onemanhua.com###rn_ad_native_2u1bh > div.mn-related-container > div.mn-container:first-child > div.mn-outer.mn-thumbnails_col-2.mn-thumbnails_img-left > div.mn-thumb:first-child
+onemanhua.com###rn_ad_native_2u1bh > div.mn-related-container > div.mn-container:first-child > div.mn-outer.mn-thumbnails_col-2.mn-thumbnails_img-left > div.mn-thumb:last-child > a:first-child > div.mn-thumb__holder
+onemanhua.com###rn_ad_native_2u1bh > div.mn-related-container > div.mn-container:first-child > div.mn-outer.mn-thumbnails_col-2.mn-thumbnails_img-left > div.mn-thumb:last-child > span.mn-thumb__label:last-child > span.mn-thumb__label-title:first-child > a.mn-thumb__label-title-link
+onemanhua.com###rn_ad_native_2u1bh > div.mn-related-container > div.mn-container:first-child > div.mn-outer.mn-thumbnails_col-2.mn-thumbnails_img-left > div.mn-thumb:last-child > span.mn-thumb__label:last-child
+onemanhua.com###rn_ad_native_2u1bh > div.mn-related-container > div.mn-container-adsby.mn-container-adsby_position_bottom-right:last-child > a.mn-container-adsby-info
