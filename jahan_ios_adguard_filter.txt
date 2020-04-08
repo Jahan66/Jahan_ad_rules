@@ -1,3 +1,8 @@
+[Adblock Plus 2.0]
+! title: Jahan 广告过滤规则
+! Version: 2020年4月8日 10:13:58
+ 
+  
 v.youku.com###app > div > div.play-top-container > div.l-container:last-child > div.module-playbox:first-child > div.playbox > div.listbox:last-child > div.anthology-wrap > div.scroll-area:last-child > div.anthology-content-scroll:last-child > div > div.qr-wrap:last-child
 baidu.com###qrcode > div.qrcode-item.qrcode-item-1
 @@||runative-syndicate.com^$domain=onemanhua.com
